@@ -1,0 +1,40 @@
+# 🐞 Bug File - How to Fix Bugs and Bug-File ✅
+ - By WebXWizard (BCA)
+
+# This is a Simple File by WebXWizard
+
+A simple bug tracking and reporting system that helps developers log, manage, and resolve software bugs efficiently.
+
+----------------------------------
+
+# 🚀 Features
+- Add, edit, and delete bug reports  
+- Assign bugs to team members  
+- Track bug status (Open, In Progress, Fixed, Closed)  
+- Simple and clean UI  
+- Data persistence with database or local storage  
+
+---
+
+# 🛠️ Tech Stack
+- **Frontend:** React / Next.js  
+- **Backend:** Node.js / Express.js  
+- **Database:** MongoDB  
+- **Version Control:** Git & GitHub  
+
+---
+
+# ⚙️ Installation
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/bug-file.git
+
+# Move into the folder
+cd bug-file
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
